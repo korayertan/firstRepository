@@ -15,6 +15,7 @@ public class koray {
 }
 
 /*2. ekleme test*/
+/*3. cumle falan*/
 /*
 
 package com.shiftedtech.qa.algorithm;
