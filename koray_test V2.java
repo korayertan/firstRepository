@@ -14,7 +14,7 @@ public class koray {
     }
 }
 
-/*2. ekleme test*/
+/*versiyon 2*/
 /*
 
 package com.shiftedtech.qa.algorithm;
